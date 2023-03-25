@@ -1,0 +1,57 @@
+.bg-image{
+    background-image: url('https://indiancc.mygov.in/wp-content/uploads/2022/02/mygov-10000000001256304278.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    margin-top: 12rem;
+}
+.text h1{
+    font-size: 6rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: #dbddf1;
+    padding: 80px 0;
+}
+.gallery img{
+    background-color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(19, 16, 16, 0.3);
+    cursor: pointer;
+}
+#gallery-modal .modal-img{
+    width: 100%;
+}
+.img-container{
+    margin-left: 55rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
